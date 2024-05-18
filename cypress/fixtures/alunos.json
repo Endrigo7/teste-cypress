@@ -1,0 +1,5 @@
+{ "alunos": [
+    { "cpf": "12345678900", "email": "jose@gmail.com" , "telefone": "8112341234", "turma": "002 - FRONT-END - UFRN - TER - QUI - 14:00 as 17:00 - AUGUSTO SOUZA"},
+    { "cpf": "87262323612", "email": "maria@gmail.com" , "telefone": "8476542345", "turma": "002 - FRONT-END - UFRN - TER - QUI - 14:00 as 17:00 - AUGUSTO SOUZA"}
+  ]
+}
